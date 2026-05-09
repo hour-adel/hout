@@ -1,0 +1,19 @@
+#incloud<bits\stdc++>
+using namespace std ;
+
+const int maxN = 1'000;
+const int maxM = 200'000;
+
+bool G [maxN+1][maxN+1]
+
+
+int main () { 
+int n , m ; 
+cin>>n>>m;
+
+for ( int i = 0 ; i < m ; i++ ) { 
+int u,m ; cin>> u>>m ; 
+G[v][u]=true;
+G[u][v]=true;
+}
+}
